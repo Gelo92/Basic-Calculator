@@ -1,0 +1,3 @@
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\Debug\CalculatorProj1.vcxproj.AssemblyReference.cache
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\Debug\CalculatorProj1.MyForm.resources
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\Debug\CalculatorProj1.vcxproj.GenerateResource.cache

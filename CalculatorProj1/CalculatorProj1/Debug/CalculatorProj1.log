@@ -1,0 +1,79 @@
+﻿  MyForm.cpp
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(15,8): error C2143: syntax error: missing ';' before '^'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(49): message : see reference to class template instantiation 'Calculator<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(15,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(15,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(17,8): error C2143: syntax error: missing ';' before '^'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(17,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(17,30): error C2065: 'Button': undeclared identifier
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(17,1): error C2059: syntax error: '>'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(17,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(18,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(19,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(22,2): error C2059: syntax error: 'else'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(23,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(32,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(33,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(38,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(39,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(43,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(44,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(55,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(63): message : see reference to class template instantiation 'Commas<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(57,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(58,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(69,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(78): message : see reference to class template instantiation 'Addition<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(71,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(72,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(84,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(93): message : see reference to class template instantiation 'Subtraction<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(86,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(87,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(99,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(107): message : see reference to class template instantiation 'Division<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(101,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(102,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(113,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(122): message : see reference to class template instantiation 'Multiplication<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(115,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(116,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(129,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(136): message : see reference to class template instantiation 'Root<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(131,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(132,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(143,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(152): message : see reference to class template instantiation 'Power<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(145,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(146,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(161,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(182): message : see reference to class template instantiation 'Factorial<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(162,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(163,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(189,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(198): message : see reference to class template instantiation 'Percentage<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(191,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(192,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(205,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(216): message : see reference to class template instantiation 'SpaceButton<<unnamed-symbol>>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(207,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(208,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(212,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(213,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(223,1): error C2955: 'Calculator': use of class template requires template argument list
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(10): message : see declaration of 'Calculator'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(233): message : see reference to class template instantiation 'NegativeNumber<T>' being compiled
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(225,2): error C2059: syntax error: 'if'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(226,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(229,2): error C2059: syntax error: 'else'
+C:\Users\Lungelo\Desktop\Design3\3CC\Programs\CalculatorProj1\CalculatorProj1\MyForm.h(230,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
